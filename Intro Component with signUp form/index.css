@@ -14,7 +14,6 @@
 }
 
 #content {
-  /* border: 1px solid black; */
   margin: 20px;
   padding: 40px;
   color: white;
@@ -30,7 +29,7 @@
 }
 .header {
   display: flex;
-  /* justify-content: space-between; */
+  justify-content: space-between;
   align-items: center;
 }
 #para {
@@ -52,8 +51,7 @@
   padding: 30px;
   margin: 20px;
 }
-
-#form {
+.regis #form {
   background-color: white;
   padding: 30px;
   margin: 20px;
